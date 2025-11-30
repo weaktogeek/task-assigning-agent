@@ -104,7 +104,7 @@ project-root/
 2. cd task-assigning-agent
 3. Install dependencies : pip install -r requirements.txt
 4. Add your API key in .env : GOOGLE_API_KEY=your-key-here
-5. Start the agent CLI : adk run agents/task_advisor_agent
+5. Start the agent CLI : adk run agents/task_assign_agent
    OR
 6. Start the agent : adk web agents
 
